@@ -1,4 +1,3 @@
-/** @jsx React.DOM */
 // For PhantomJS. 
 // See https://github.com/facebook/react/pull/347#issuecomment-24625365
 require( 'es5-shim' );
